@@ -2,6 +2,7 @@
   "name": "fcc-recipebox",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://impucky.github.io/fcc-recipebox",
   "devDependencies": {
     "autoprefixer": "6.4.1",
     "babel-core": "6.14.0",
