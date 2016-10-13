@@ -1,4 +1,4 @@
-### freeCodeCamp Recipe Box
+## freeCodeCamp Recipe Box
 
 ## With create-react-app, material-ui and SASS
 
