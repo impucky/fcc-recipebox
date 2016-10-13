@@ -22,7 +22,7 @@ class Recipe extends React.Component {
         )
     }
     else {
-      return null;  
+      return null; 
     }
 
 
