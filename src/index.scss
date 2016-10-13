@@ -1,0 +1,48 @@
+body {
+	background: #a71530;
+}
+
+.wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.img-recipe {
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+.add-recipe {
+	text-align: center;
+	margin: 15px 0;
+}
+
+.recipe-card {
+	width: 80%;
+	margin: 15px auto;
+}
+
+.recipe-card-header {
+	background: #ddd;
+}
+
+.recipe-contents {
+	margin: 15px 0;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.recipe-ingredients {
+	padding: 5px;
+	width: 30%;
+	ul {
+		padding-left: 15px;
+	}
+}
+
+.recipe-text {
+	padding: 5px;
+	width: 70%;
+}
